@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>androidx.media2</groupId>
-  <artifactId>exoplayer-core-media2</artifactId>
+  <artifactId>media2-exoplayer-core</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
   <licenses>
